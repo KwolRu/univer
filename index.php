@@ -17,6 +17,8 @@ require_once 'config.php';
     <link rel="stylesheet" href="assets/css/methods.css">
     <link rel="stylesheet" href="assets/css/CEO.css">
     <link rel="stylesheet" href="assets/css/for.css">
+    <link rel="stylesheet" href="assets/css/footer.css">
+    <link rel="stylesheet" href="assets/css/clients.css">
 </head>
 <body>
     <!-- Header -->
@@ -29,6 +31,7 @@ require_once 'config.php';
         <?php include 'includes/sections/methods.php'; ?>
         <?php include 'includes/sections/CEO.php'; ?>
         <?php include 'includes/sections/for.php'; ?>
+        <?php include 'includes/sections/clients.php'; ?>
     </main>
     
     <!-- Footer -->
