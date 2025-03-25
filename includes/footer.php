@@ -1,20 +1,22 @@
 <footer>
     <div class="useful">
-        <img src="assets/img/new/useful-arrow.svg">
-        <div class="useful-card">
-            <div class="useful-card-text">Статьи</div>
-        </div>
-        <div class="useful-card">
-            <div class="useful-card-text">Видео</div>
-        </div>
-        <div class="useful-card">
-            <div class="useful-card-text">Подкасты</div>
-        </div>
-        <div class="useful-card black">
-            <div class="useful-card-text">Гайды</div>
-        </div>
-        <div class="useful-card">
-            <div class="useful-card-text">Чек-листы</div>
+        <div class="container useful">
+            <img src="assets/img/new/useful-arrow.svg">
+            <div class="useful-card">
+                <div class="useful-card-text">Статьи</div>
+            </div>
+            <div class="useful-card">
+                <div class="useful-card-text">Видео</div>
+            </div>
+            <div class="useful-card">
+                <div class="useful-card-text">Подкасты</div>
+            </div>
+            <div class="useful-card black">
+                <div class="useful-card-text">Гайды</div>
+            </div>
+            <div class="useful-card">
+                <div class="useful-card-text">Чек-листы</div>
+            </div>
         </div>
     </div>
 
